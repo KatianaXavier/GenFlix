@@ -29,7 +29,7 @@ O projeto é composto por 2 seções diferentes:
 <img src="./assets/preview-menuUsuario.png" alt="Foto de preview do menu do usuario."/>
 </div>
 
-#### 🎬 Confira <a href="https://www.canva.com/design/DAFbDX4tYWA/1WVLXPTtizdF3fxnMp257w/view#1"> aqui </a>a apresentação de slides do projeto!
+#### 🎬 Confira <a href="https://www.canva.com/design/DAFbDX4tYWA/1WVLXPTtizdF3fxnMp257w/view#1" target="_blank"> aqui </a>a apresentação de slides do projeto!
   
  ## 💫 Tecnologias e Ferramentas
 
