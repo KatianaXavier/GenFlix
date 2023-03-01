@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 Projeto
 
-Repositório com o código do <strong>projeto Genflix</strong>, projeto de finalização do bloco I do bootcamp Java FullStack, da <a href="https://www.linkedin.com/school/generationbrasil">Generation Brasil</a>. <p>A ideia do projeto é organizar os filmes dos usuários em duas listas, "Assistidos" e "Não assistidos", facilitando o controle e tornando o gerenciamento dos filmes mais simples e facilitado.</p> Neste projeto foram trabalhados:
+Repositório com o código do <strong>projeto Genflix</strong>, trabalho de finalização do bloco I do bootcamp Java FullStack, da <a href="https://www.linkedin.com/school/generationbrasil">Generation Brasil</a>. <p>A ideia do projeto é organizar os filmes dos usuários em duas listas, "Assistidos" e "Não assistidos", facilitando o controle e tornando o gerenciamento dos filmes mais simples e facilitado.</p> Neste projeto foram trabalhados:
 
 - Entrada e saída de dados;
 - Laços condicionais;
@@ -16,13 +16,20 @@ Repositório com o código do <strong>projeto Genflix</strong>, projeto de final
 - Collections;
 - Exceptions.
 
-## 📚 Seções
+## 📚 Seções + Preview
 O projeto é composto por 2 seções diferentes:
 
-- **Menu Principal:** Nele temos as funcionalidades para manipular o array de contas;
-- **Menu do Usuário:** Nessa seção, temos todas as funcionalidades de manipulação do array de filmes do usuário;
+<div align="center">
+<strong>Menu Principal: Nele temos as funcionalidades para manipular o array de contas.</strong>
+<img src="./assets/preview-menuPrincipal.png" alt="Foto de preview do menu inicial."/>
+</div>
+<div align="center">
+<br>
+<strong>Menu do Usuário: Nessa seção, temos todas as funcionalidades de manipulação do array de filmes do usuário.</strong>
+<img src="./assets/preview-menuUsuario.png" alt="Foto de preview do menu do usuario."/>
+</div>
 
-#### 🎬 Confira <a href="https://www.canva.com/design/DAFbDX4tYWA/1WVLXPTtizdF3fxnMp257w/view#1"> aqui </a>a apresentação de slides do projeto:
+#### 🎬 Confira <a href="https://www.canva.com/design/DAFbDX4tYWA/1WVLXPTtizdF3fxnMp257w/view#1"> aqui </a>a apresentação de slides do projeto!
   
  ## 💫 Tecnologias e Ferramentas
 
