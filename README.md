@@ -31,65 +31,16 @@ O projeto é composto por 2 seções diferentes:
 
 #### 🎬 Confira <a href="https://www.canva.com/design/DAFbDX4tYWA/1WVLXPTtizdF3fxnMp257w/view#1" target="_blank"> aqui </a>a apresentação de slides do projeto!
   
- ## 💫 Tecnologias e Ferramentas
+## 💫 Tecnologias e Ferramentas
 
 Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 - Java
 - Eclipse / SpringToolSuite
 
-## 🤝 Participantes
+## 🤝 Desenvolvedores
 
-<div>
-<h4>
-    Elizangela Xavier
-</h4>
-    <img width="90" img height="100" src="./assets/Elizangela.jpeg"/><br>
-    <a href="https://github.com/ElizangelaXavierS">GitHub</a><br>
-<a href="https://www.linkedin.com/in/elizangelaxavier/">Linkedin</a>
-</div>
+E aqui está a equipe GenFlix, um grupo de desenvolvedoras e desenvolvedores competentes e profissionais com quem tive a sorte de trabalhar! Obrigada por toda a parceria, pessoal! 💜
 
-<div>
-<h4>
-Fernando Alves de Paula
-</h4>
-<img width="100" img height="110" src="./assets/Fernando.jpg"/><br>
-<a href="https://github.com/fewatts">GitHub</a><br>
-<a href="https://www.linkedin.com/in/fernando-alves-85091716b/">Linkedin</a>
-</div>
-
-<div>
-<h4>
-    Giovana Maiara
-</h4>
-    <img width="90" img height="100" src="./assets/Giovana.jpg"/><br>
-    <a href="https://github.com/macgii">GitHub</a><br>
-<a href="https://www.linkedin.com/in/giovana-maiara-concei%C3%A7%C3%A3o-de-oliveira-5a7124264/">Linkedin</a>
-</div>
-
-<div>
-<h4>
-    Isaac M. Castanho
-</h4>
-    <img width="100" img height="120" src="./assets/Isaac.jpg"/><br>
-    <a href="https://github.com/Isaac-MCastanho">GitHub</a><br>
-<a href="https://www.linkedin.com/in/isaacmcastanho/">Linkedin</a>
-</div>
-
-<div>
-<h4>
-Katiana Xavier
-</h4>
-    <img width="100" img height="120" src="./assets/Katiana.jpeg"/><br>
-    <a href="https://github.com/KatianaXavier">GitHub</a><br>
-<a href="https://www.linkedin.com/in/katianaxavier/">Linkedin</a>
-    </div>
-
-<div>
-<h4>
-    Luan Silva
-</h4>
-    <img width="100" src="./assets/Luan.jpg"/><br>
-    <a href="https://github.com/LuanSilva94">GitHub</a><br>
-<a href="https://www.linkedin.com/in/luan-silva-6506a61a1/">Linkedin</a>
-</div>
+[<img src="https://avatars.githubusercontent.com/u/109443950?v=4" width=100 > <br> <sub> Elizangela Xavier </sub>](https://github.com/ElizangelaXavierS) | [<img src="https://avatars.githubusercontent.com/u/110425294?v=4" width=100 > <br> <sub> Fernando Alves </sub>](https://github.com/fewatts) | [<img  src="./assets/Giovana.jpg" width=100 height=100> <br> <sub> Giovana Oliveira </sub>](https://github.com/macgii) | [<img src="https://avatars.githubusercontent.com/u/88750575?v=4" width=100 > <br> <sub> Isaac M. Castanho </sub>](https://github.com/Isaac-MCastanho) | [<img src="https://avatars.githubusercontent.com/u/111511975?v=4" width=100 > <br> <sub> Katiana Xavier </sub>](https://github.com/KatianaXavier) | [<img src="https://avatars.githubusercontent.com/u/108881522?v=4" width=100 > <br> <sub> Luan Silva </sub>](https://github.com/LuanSilva94)
+| :---: | :---: | :---: | :---: | :---: | :---: |
